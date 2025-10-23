@@ -153,6 +153,8 @@ You should see:
 - Statistics dashboard (words, hashtags, lines)
 - One-click copy functionality
 
+<img width="1919" height="904" alt="Screenshot 2025-10-23 102553" src="https://github.com/user-attachments/assets/1a59ffef-05b2-4f61-9e7b-e261c535a177" />
+
 ---
 
 ## 💡 Example Topics
@@ -347,8 +349,8 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 For questions or feedback:
 - Create an issue on GitHub
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-profile
+- Email: shlokanir1024@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shlok-nair-050ba6229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
@@ -357,5 +359,6 @@ For questions or feedback:
 **Made with ❤️ using CrewAI, Groq, and Claude AI**
 
 [⬆ Back to Top](#-linkedin-post-generator)
+
 
 </div>
